@@ -6,7 +6,7 @@ This repository encapsulates a meticulous simulation of the **Ant Colony Optimiz
 
 <img src="Ant-Colony-Optimization-ACO-algorithm.png" alt="Ant Colony Optimization" width="500" />
 
-# Research Article
+## Research Article
 
 [![PDF Research Article](https://img.shields.io/badge/PDF_Research_Article-blue)](ant-colony-optimization.pdf)
 
