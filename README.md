@@ -4,6 +4,7 @@
 
 This repository encapsulates a meticulous simulation of the **Ant Colony Optimization (ACO)** algorithm, a probabilistic computational paradigm derived from the foraging behavior of real ants. ACO stands as a formidable methodology for addressing multifaceted optimization problems by harnessing the principles of **swarm intelligence** and pheromone-mediated communication. This simulation elucidates the dynamics of artificial ants traversing a graph of interconnected nodes, employing stochastic decision-making processes to ascertain optimal pathways to designated target nodes. 🌍✨
 
+<img src="Ant-Colony-Optimization-ACO-algorithm.png" alt="Ant Colony Optimization" width="500" />
 
 # Research Article
 
